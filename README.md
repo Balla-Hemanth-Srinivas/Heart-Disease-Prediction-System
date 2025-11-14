@@ -17,13 +17,9 @@ This system uses data analysis, preprocessing, and classification algorithms ins
 - Load and explore the heart-disease dataset  
 - Perform Exploratory Data Analysis (EDA)  
 - Data preprocessing (scaling, cleaning, splitting)  
-- Train multiple machine learning models:
+- Train machine learning model used:
   - Logistic Regression  
-  - K-Nearest Neighbors  
-  - Support Vector Machine (SVM)  
-  - Random Forest  
-- Compare model accuracies  
-- Make predictions on new data  
+- Make predictions using trained Logistic Regression model  
 
 ---
 
@@ -71,7 +67,7 @@ jupyter notebook "Heart Disease Prediction.ipynb"
 Typical results you may see:
 - Logistic Regression: **80%–85%**
 
-Exact values depend on preprocessing.
+Exact values depend on preprocessing, training.
 
 ---
 
